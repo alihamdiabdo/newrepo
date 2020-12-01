@@ -39,3 +39,7 @@
 
 x = 2
 chr(x)
+for i in l:
+splited = i.split(':')
+d.setdefault(splited[0],splited[1])
+print(d)
