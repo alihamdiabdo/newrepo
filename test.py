@@ -46,3 +46,5 @@ print(d)
 
 x = "hello world"
 print(x[2:2]) 
+ for i in range(len(l)):
+     print(l[i])
